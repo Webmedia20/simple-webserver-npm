@@ -27,8 +27,3 @@ For tailwindcss, you can use: `npx tailwindcss -o app/dist/tailwind.css --watch`
 
 ## Debuging
 Commands are still not working on [Getting stared]() or [Usage]()? Then you should try `sudo` on linux and macOS and dont forget to at docker.exe in $PATH on Windows.
-
-
----
-
-Made by Webmedia 2.0 in Karlsruhe

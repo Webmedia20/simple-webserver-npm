@@ -1,6 +1,8 @@
 # Web project
 a simple webserver with node for npm packges like tailwindcss or sass.
 
+[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/Webmedia20/simple-webserver-npm/issues)
+
 ## Getting started
 You can use following command to usually start your containers. Make sure that you started the docker engine on mac and windows via Docker Desktop. It could be, that at the first startup it could take a moment until its full running, because it is building your node-modules. 
 ```sh
